@@ -1,0 +1,24 @@
+.button {
+    display: block;
+  }
+  
+  button {
+    width: 25%;
+    height: 60px;
+    font-size: 30px;
+  }
+
+
+.eqaul{
+    background-color: rgba(52, 99, 52, 0.568);
+}
+.delete{
+    font-size: 23px;
+    padding: 5px;
+}
+.comman{
+    background-color: rgba(214, 86, 208, 0.774);
+}
+.zero{
+    width: 200px;
+}
